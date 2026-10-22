@@ -3,5 +3,5 @@ One-page website for EnduraGrip Adhesives (HTR-927), served by GitHub Pages at h
 
 - `index.html`: the page
 - `assets/`: logo (SVG and PNG)
-- `docs/`: downloadable PDFs (`HTR-927-Instructions.pdf`, `HTR-927-SDS.pdf`)
+- `docs/`: downloadable PDFs (`HTR-927-Instructions.pdf`, `HTR-927-SDS.pdf`). To update one, replace the file with the same name.
 - `CNAME`: custom domain for GitHub Pages
