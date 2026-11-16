@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ecf-claude": {
+      "source": {
+        "source": "github",
+        "repo": "eastcoastfabrics/ecf-claude"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ecf-ops@ecf-claude": true
+  }
+}
